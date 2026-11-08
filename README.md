@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vedat Aliu</h1>
-<h3 align="center">Software Engineer </h3>
 
 <p align="center">
   <a href="https://vedataliu.vercel.app/">
@@ -19,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-I am a Software Engineer experienced in public and private sector projects, focused on building scalable applications with clean, efficient code. 
+I am an IT Engineer experienced in public and private sector projects, focused on building scalable applications with clean, efficient code. 
 I work with full-stack technologies and data-driven solutions to create reliable, user-focused software.
 
 ---
